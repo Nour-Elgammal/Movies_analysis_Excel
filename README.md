@@ -5,8 +5,11 @@ Movie industry data analysis using Power Query and Pivot tables. Features a dyna
 ## 📌 Project Overview
 This project involves a comprehensive analysis of the Movie Database (TMDb), covering over 3,800 movies. The goal was to uncover trends in the film industry, identify the most profitable genres and directors, and understand the factors influencing a movie's popularity.
 
-![Dashboard Preview](screenshots/your_screenshot_name.png) 
-*(Replace this with the actual path to your image)*
+
+
+https://github.com/user-attachments/assets/ed65b657-2d6e-4631-95ff-c89b5e9e6916
+
+
 
 ## 🛠️ Tools & Technologies
 * **Microsoft Excel:** The primary tool for data processing and visualization.
