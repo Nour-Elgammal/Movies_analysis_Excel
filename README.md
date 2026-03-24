@@ -36,4 +36,4 @@ https://github.com/user-attachments/assets/ed65b657-2d6e-4631-95ff-c89b5e9e6916
 
 ---
 **Author:** Nour Elgammal  
-**LinkedIn:** [Your LinkedIn Profile Link](https://www.linkedin.com/in/nour-ali-elgamal)
+**LinkedIn:** www.linkedin.com/in/nour-ali-elgamal
